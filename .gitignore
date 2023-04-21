@@ -1,0 +1,9 @@
+*/target/
+*/.settings/
+*/logs/
+*/src/main/resorces/
+*/.project
+/.settings/
+*/.classpath
+/.project
+*/conf/
